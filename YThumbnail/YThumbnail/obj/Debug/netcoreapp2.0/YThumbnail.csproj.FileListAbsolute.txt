@@ -1,0 +1,11 @@
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\bin\Debug\netcoreapp2.0\YThumbnail.deps.json
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\bin\Debug\netcoreapp2.0\YThumbnail.runtimeconfig.json
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\bin\Debug\netcoreapp2.0\YThumbnail.runtimeconfig.dev.json
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\bin\Debug\netcoreapp2.0\YThumbnail.dll
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\bin\Debug\netcoreapp2.0\YThumbnail.pdb
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\obj\Debug\netcoreapp2.0\YThumbnail.csprojResolveAssemblyReference.cache
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\obj\Debug\netcoreapp2.0\YThumbnail.csproj.CoreCompileInputs.cache
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\obj\Debug\netcoreapp2.0\YThumbnail.AssemblyInfoInputs.cache
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\obj\Debug\netcoreapp2.0\YThumbnail.AssemblyInfo.cs
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\obj\Debug\netcoreapp2.0\YThumbnail.dll
+K:\Projects\YThumbnail\YThumbnail\YThumbnail\obj\Debug\netcoreapp2.0\YThumbnail.pdb
